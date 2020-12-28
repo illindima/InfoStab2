@@ -4,7 +4,7 @@
 
 ```sh
 $ git clone https://github.com/illindima/InfoStab2.git
-$ cd InfoStab
+$ cd InfoStab2
 $ python3 -m venv env
 $ source env/bin/activate
 $ make run
